@@ -1,4 +1,6 @@
-
+application:
+  name: CONFIG-DEFAULT
+  
 # eureka config
 eureka:
   instance:
